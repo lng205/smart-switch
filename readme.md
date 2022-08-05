@@ -8,7 +8,7 @@
 
 ​		把这个小盒子贴在开关旁边，通过语音口令或者蓝牙触发电机工作，拨动开关。
 
-<img src=".\images\image-20220805210730253.png" alt="透视图" style="zoom:50%;" /><img src=".\images\image-20220805210744442.png" alt="实拍图" style="zoom:50%;" />
+<img src="images/p1" alt="透视图" style="zoom:50%;" /><img src=".\images\image-20220805210744442.png" alt="实拍图" style="zoom:50%;" />
 
 
 
